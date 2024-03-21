@@ -1,0 +1,8 @@
+com\example\springrabbitmqconsumer\SpringRabbitmqConsumerApplication.class
+com\example\springrabbitmqconsumer\config\RabbitMqConfig.class
+com\example\springrabbitmqconsumer\config\CommonDBConfig.class
+com\example\springrabbitmqconsumer\service\FileProcessService.class
+com\example\springrabbitmqconsumer\repository\DealerTypeRepository.class
+com\example\springrabbitmqconsumer\consume\RabbitMqConsume.class
+com\example\springrabbitmqconsumer\entity\DealerType.class
+META-INF\spring-configuration-metadata.json
